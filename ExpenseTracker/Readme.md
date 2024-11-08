@@ -35,5 +35,9 @@
    ```
 4. Follow the on-screen instructions to enter the data.
 
+## SCREENSHOT PYTHON PROGRAM
 ![PyProgram](pyprogram.png)
+
+## SCREENSHOT CSV FILE
+
 
