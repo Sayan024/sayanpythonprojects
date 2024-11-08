@@ -1,6 +1,6 @@
 # Personal Expense Tracker Project
 ## Overview
-### The Personal Expense Tracker is a Python-based project designed to help users log and analyze daily expenses. Users input details like the amount, category, payment type, and description for each expense. All entries are stored in a CSV file (tracker.csv), which acts as a database. A Power BI dashboard is also included to visualize spending trends and offer insights into spending habits.
+The Personal Expense Tracker is a Python-based project designed to help users log and analyze daily expenses. Users input details like the amount, category, payment type, and description for each expense. All entries are stored in a CSV file (tracker.csv), which acts as a database. A Power BI dashboard is also included to visualize spending trends and offer insights into spending habits.
 
 ## Key Features
 ### Expense Logging in Python
