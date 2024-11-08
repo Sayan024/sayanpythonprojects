@@ -23,6 +23,10 @@
 ## User-Friendly Interface
 - Interactive prompts guide users through the expense entry, with straightforward options for categories and payment methods.
 ## How to Use
-1. Run the Python script to input expense details.
-2. Follow prompts to categorize expenses and select a payment method.
-3. Open the Power BI dashboard to analyze spending trends, track monthly expenditures, and view spending breakdowns by category and payment method.
+1. Open your terminal or command prompt.
+2. Navigate to the project directory.
+3. Run the game using Python:
+   ```bash
+   expensetracker.py
+   ```
+4. Follow the on-screen instructions to enter the data.
