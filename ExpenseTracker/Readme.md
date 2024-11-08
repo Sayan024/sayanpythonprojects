@@ -19,7 +19,11 @@
 - Top Spending Categories: Donut chart categorizing expenses to identify major spending areas.
 - Daywise Spending: Bar chart showing daily spending habits.
 - Payment Method Breakdown: Bar chart displaying expenses by payment method (Cash, UPI, Card).
+
+  
 ![Screenshot](screenshot.png)
+
+
 ## User-Friendly Interface
 - Interactive prompts guide users through the expense entry, with straightforward options for categories and payment methods.
 ## How to Use
@@ -30,3 +34,6 @@
    expensetracker.py
    ```
 4. Follow the on-screen instructions to enter the data.
+
+(pyprogram.png)
+
