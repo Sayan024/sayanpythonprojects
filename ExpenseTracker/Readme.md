@@ -9,6 +9,7 @@ The Personal Expense Tracker is a Python-based project designed to help users lo
 - Payment methods: Cash, UPI, and Card.
 - Users can add descriptions for context.
 - Data is saved in tracker.csv with columns for date, amount, payment method, category, and description.
+- Automatically takes current date.
 ## CSV Storage
 - Expenses are stored in a CSV file for easy access and data management.
 - This file serves as a database for users to review and analyze their expenses further.
