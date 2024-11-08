@@ -25,7 +25,7 @@
 ## How to Use
 1. Open your terminal or command prompt.
 2. Navigate to the project directory.
-3. Run the game using Python:
+3. Run the Python code:
    ```bash
    expensetracker.py
    ```
