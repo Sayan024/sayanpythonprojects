@@ -35,5 +35,5 @@
    ```
 4. Follow the on-screen instructions to enter the data.
 
-(pyprogram.png)
+![PyProgram](pyprogram.png)
 
