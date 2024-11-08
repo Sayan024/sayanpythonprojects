@@ -1,0 +1,202 @@
+Date,Amount,Pay,Category,Description
+02-01-2024,3282,Card,Housing,Home repair
+02-01-2024,2245,Card,Groceries,Supermarket purchase
+03-01-2024,2,Card,Utilities,Internet bill
+05-01-2024,2040,Card,Miscellaneous,Donation
+05-01-2024,3291,Cash,Housing,Home repair
+08-01-2024,839,Cash,Utilities,Internet bill
+10-01-2024,3821,Card,Miscellaneous,Gift purchase
+14-01-2024,2802,UPI,Health & Wellness,Gym membership
+14-01-2024,43,Card,Entertainment,Movie ticket
+16-01-2024,4610,UPI,Transportation,Fuel
+17-01-2024,677,Cash,Transportation,Fuel
+17-01-2024,892,Card,Entertainment,Subscription service
+19-01-2024,438,Card,Entertainment,Subscription service
+21-01-2024,889,Card,Utilities,Water bill
+22-01-2024,2816,Card,Housing,Rent payment
+22-01-2024,786,Card,Groceries,Supermarket purchase
+22-01-2024,4388,Card,Health & Wellness,Medication
+27-01-2024,1473,Cash,Health & Wellness,Doctor visit
+27-01-2024,1690,UPI,Miscellaneous,Gift purchase
+28-01-2024,1285,UPI,Transportation,Public transport
+28-01-2024,4438,Card,Transportation,Fuel
+08-02-2024,2221,UPI,Transportation,Taxi fare
+08-02-2024,2943,Card,Miscellaneous,Gift purchase
+08-02-2024,2810,Card,Utilities,Water bill
+09-02-2024,1796,Cash,Groceries,Local market
+17-02-2024,1132,Card,Groceries,Organic store
+17-02-2024,2486,Cash,Transportation,Public transport
+26-02-2024,704,Card,Housing,Mortgage
+27-02-2024,20,UPI,Groceries,Organic store
+28-02-2024,964,Card,Miscellaneous,Gift purchase
+28-02-2024,1729,Cash,Utilities,Internet bill
+01-03-2024,96,Card,Transportation,Fuel
+03-03-2024,3297,UPI,Transportation,Public transport
+05-03-2024,4399,Card,Groceries,Supermarket purchase
+05-03-2024,4910,Card,Transportation,Taxi fare
+11-03-2024,2237,Card,Housing,Home repair
+14-03-2024,3156,Card,Health & Wellness,Doctor visit
+15-03-2024,4383,Card,Entertainment,Concert
+19-03-2024,2153,Cash,Utilities,Internet bill
+19-03-2024,2687,Cash,Miscellaneous,Shopping
+21-03-2024,658,Cash,Miscellaneous,Gift purchase
+21-03-2024,4028,Cash,Entertainment,Concert
+22-03-2024,2483,Cash,Housing,Rent payment
+22-03-2024,4115,Card,Miscellaneous,Gift purchase
+23-03-2024,1435,Cash,Entertainment,Subscription service
+24-03-2024,1658,UPI,Groceries,Local market
+25-03-2024,3526,Card,Housing,Mortgage
+26-03-2024,4672,UPI,Health & Wellness,Gym membership
+26-03-2024,3207,Cash,Groceries,Supermarket purchase
+27-03-2024,286,UPI,Miscellaneous,Donation
+28-03-2024,3752,Cash,Health & Wellness,Medication
+28-03-2024,2574,UPI,Groceries,Local market
+30-03-2024,1713,Cash,Utilities,Internet bill
+01-04-2024,993,UPI,Entertainment,Movie ticket
+03-04-2024,2486,UPI,Miscellaneous,Gift purchase
+03-04-2024,1875,UPI,Miscellaneous,Gift purchase
+05-04-2024,77,UPI,Housing,Rent payment
+06-04-2024,144,Cash,Miscellaneous,Shopping
+06-04-2024,104,Cash,Health & Wellness,Doctor visit
+06-04-2024,3778,Card,Miscellaneous,Shopping
+07-04-2024,4055,Card,Utilities,Internet bill
+09-04-2024,509,Card,Utilities,Water bill
+10-04-2024,1490,Cash,Groceries,Supermarket purchase
+11-04-2024,1868,Card,Transportation,Public transport
+11-04-2024,2623,Cash,Transportation,Fuel
+12-04-2024,4769,Card,Utilities,Electricity bill
+14-04-2024,4740,Card,Housing,Rent payment
+14-04-2024,1438,Card,Groceries,Local market
+17-04-2024,3754,UPI,Utilities,Electricity bill
+18-04-2024,4814,Card,Health & Wellness,Medication
+21-04-2024,1427,UPI,Health & Wellness,Gym membership
+21-04-2024,538,UPI,Utilities,Water bill
+21-04-2024,411,Card,Utilities,Internet bill
+23-04-2024,4822,UPI,Miscellaneous,Shopping
+25-04-2024,4608,UPI,Miscellaneous,Donation
+28-04-2024,4575,UPI,Health & Wellness,Medication
+28-04-2024,4285,Card,Utilities,Internet bill
+29-04-2024,526,UPI,Transportation,Public transport
+29-04-2024,1958,UPI,Housing,Home repair
+01-05-2024,3933,Cash,Housing,Mortgage
+01-05-2024,466,UPI,Utilities,Internet bill
+01-05-2024,3560,UPI,Groceries,Supermarket purchase
+02-05-2024,4959,Card,Miscellaneous,Shopping
+02-05-2024,2083,Card,Utilities,Electricity bill
+08-05-2024,484,Cash,Groceries,Supermarket purchase
+11-05-2024,4161,Card,Groceries,Supermarket purchase
+11-05-2024,333,UPI,Entertainment,Subscription service
+11-05-2024,4649,Card,Utilities,Electricity bill
+15-05-2024,2762,Card,Groceries,Organic store
+17-05-2024,182,Card,Entertainment,Movie ticket
+17-05-2024,4989,Card,Entertainment,Movie ticket
+17-05-2024,764,Cash,Housing,Rent payment
+19-05-2024,812,Cash,Utilities,Water bill
+20-05-2024,768,UPI,Utilities,Electricity bill
+20-05-2024,4350,Cash,Entertainment,Subscription service
+22-05-2024,3469,Cash,Transportation,Taxi fare
+23-05-2024,3908,Cash,Entertainment,Concert
+23-05-2024,1210,Cash,Groceries,Supermarket purchase
+24-05-2024,1397,UPI,Groceries,Supermarket purchase
+24-05-2024,3866,UPI,Housing,Rent payment
+26-05-2024,3558,Cash,Entertainment,Subscription service
+31-05-2024,4494,Card,Housing,Rent payment
+02-06-2024,379,UPI,Housing,Home repair
+04-06-2024,3912,UPI,Transportation,Taxi fare
+05-06-2024,2502,Cash,Housing,Mortgage
+06-06-2024,2323,Cash,Transportation,Fuel
+07-06-2024,1570,UPI,Entertainment,Subscription service
+07-06-2024,275,UPI,Entertainment,Subscription service
+07-06-2024,2182,UPI,Transportation,Public transport
+10-06-2024,1977,UPI,Housing,Rent payment
+10-06-2024,1670,Card,Health & Wellness,Gym membership
+11-06-2024,4859,UPI,Housing,Home repair
+12-06-2024,4713,Cash,Miscellaneous,Donation
+13-06-2024,3418,Card,Utilities,Internet bill
+14-06-2024,2725,Card,Transportation,Fuel
+16-06-2024,564,Cash,Groceries,Organic store
+19-06-2024,2698,Card,Entertainment,Concert
+20-06-2024,616,Cash,Groceries,Supermarket purchase
+22-06-2024,2181,UPI,Miscellaneous,Gift purchase
+23-06-2024,2369,Cash,Utilities,Electricity bill
+23-06-2024,1062,Card,Miscellaneous,Gift purchase
+24-06-2024,3884,UPI,Miscellaneous,Gift purchase
+26-06-2024,2402,Cash,Transportation,Taxi fare
+27-06-2024,3780,Card,Housing,Mortgage
+29-06-2024,4179,UPI,Transportation,Taxi fare
+03-07-2024,71,Cash,Utilities,Electricity bill
+04-07-2024,1235,UPI,Housing,Rent payment
+05-07-2024,2658,Cash,Groceries,Local market
+06-07-2024,1207,UPI,Health & Wellness,Doctor visit
+07-07-2024,3496,Cash,Utilities,Water bill
+08-07-2024,3335,Card,Entertainment,Movie ticket
+11-07-2024,1915,Card,Health & Wellness,Gym membership
+12-07-2024,2624,UPI,Housing,Mortgage
+13-07-2024,4339,UPI,Entertainment,Movie ticket
+14-07-2024,659,UPI,Entertainment,Subscription service
+14-07-2024,2700,UPI,Transportation,Public transport
+15-07-2024,4704,UPI,Health & Wellness,Medication
+17-07-2024,2753,UPI,Entertainment,Movie ticket
+19-07-2024,3898,Card,Housing,Rent payment
+19-07-2024,3282,Card,Entertainment,Movie ticket
+20-07-2024,1864,Card,Health & Wellness,Doctor visit
+22-07-2024,215,UPI,Transportation,Fuel
+24-07-2024,4194,Card,Transportation,Public transport
+25-07-2024,1062,UPI,Utilities,Electricity bill
+26-07-2024,833,Cash,Transportation,Fuel
+28-07-2024,4117,Cash,Housing,Mortgage
+29-07-2024,2945,Cash,Groceries,Supermarket purchase
+31-07-2024,4916,UPI,Housing,Rent payment
+01-08-2024,3207,Cash,Utilities,Water bill
+01-08-2024,1092,Cash,Housing,Mortgage
+03-08-2024,3550,UPI,Groceries,Organic store
+07-08-2024,834,Cash,Groceries,Local market
+08-08-2024,876,Cash,Housing,Mortgage
+10-08-2024,3861,UPI,Housing,Mortgage
+10-08-2024,2754,Cash,Groceries,Supermarket purchase
+11-08-2024,3042,Cash,Health & Wellness,Doctor visit
+15-08-2024,1626,Card,Housing,Home repair
+16-08-2024,3327,Cash,Utilities,Water bill
+17-08-2024,3359,Card,Entertainment,Subscription service
+18-08-2024,2351,Cash,Transportation,Fuel
+20-08-2024,1905,Cash,Health & Wellness,Gym membership
+23-08-2024,3233,Card,Housing,Home repair
+24-08-2024,3278,Card,Miscellaneous,Gift purchase
+24-08-2024,1496,Cash,Transportation,Fuel
+24-08-2024,3255,UPI,Groceries,Organic store
+25-08-2024,1753,UPI,Entertainment,Concert
+01-09-2024,2931,Cash,Transportation,Taxi fare
+05-09-2024,1170,Card,Utilities,Internet bill
+05-09-2024,1297,UPI,Groceries,Organic store
+05-09-2024,3389,UPI,Entertainment,Subscription service
+07-09-2024,4126,Cash,Miscellaneous,Gift purchase
+08-09-2024,2572,UPI,Housing,Rent payment
+09-09-2024,2739,Cash,Transportation,Fuel
+10-09-2024,3690,Card,Groceries,Supermarket purchase
+10-09-2024,3761,Cash,Miscellaneous,Gift purchase
+10-09-2024,2356,UPI,Miscellaneous,Gift purchase
+12-09-2024,2793,Card,Health & Wellness,Gym membership
+12-09-2024,2228,Cash,Housing,Home repair
+13-09-2024,4226,Cash,Entertainment,Concert
+13-09-2024,3504,Card,Housing,Rent payment
+15-09-2024,2768,Cash,Groceries,Local market
+16-09-2024,1078,UPI,Groceries,Local market
+18-09-2024,745,UPI,Miscellaneous,Donation
+19-09-2024,4583,UPI,Health & Wellness,Doctor visit
+21-09-2024,1655,Cash,Groceries,Organic store
+01-10-2024,1403,Cash,Health & Wellness,Medication
+07-10-2024,3142,Card,Health & Wellness,Doctor visit
+11-10-2024,2691,UPI,Miscellaneous,Gift purchase
+14-10-2024,3740,UPI,Groceries,Organic store
+15-10-2024,86,Card,Groceries,Organic store
+16-10-2024,873,UPI,Groceries,Local market
+16-10-2024,1455,UPI,Groceries,Organic store
+17-10-2024,3750,Cash,Groceries,Supermarket purchase
+17-10-2024,1033,Cash,Transportation,Taxi fare
+21-10-2024,1065,Cash,Utilities,Electricity bill
+23-10-2024,4842,Cash,Groceries,Organic store
+23-10-2024,4135,Card,Entertainment,Subscription service
+26-10-2024,4354,UPI,Entertainment,Movie ticket
+26-10-2024,224,UPI,Utilities,Water bill
+27-10-2024,500,Upi,Miscellaneous,Myntra t shirt bought
+27-10-2024,2597,Card,Transportation,Taxi fare
